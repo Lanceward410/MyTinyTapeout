@@ -15,9 +15,9 @@ project:
 # The pinout of your project. Leave unused pins blank. DO NOT delete or add any pins.
 pinout:
   # Inputs
-  ui[0]: "A"
-  ui[1]: "B"
-  ui[2]: ""
+  ui[0]: "Ain"
+  ui[1]: "Bin"
+  ui[2]: "Cin"
   ui[3]: ""
   ui[4]: ""
   ui[5]: ""
@@ -25,8 +25,8 @@ pinout:
   ui[7]: ""
 
   # Outputs
-  uo[0]: "OUT"
-  uo[1]: ""
+  uo[0]: "Sum"
+  uo[1]: "Cout"
   uo[2]: ""
   uo[3]: ""
   uo[4]: ""
