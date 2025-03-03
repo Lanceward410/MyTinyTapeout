@@ -14,8 +14,8 @@ This is a simple Full Adder circuit that takes 1-bit inputs A and B, with consid
 ## How to test
 
 Explain how to use your project:
-VCC sends a square wave to CLK, and you just turn the inputs A, B, and C "on" or "off." These three binary bits are added together to output a 2-bit binary number.
 -
+VCC sends a square wave to CLK, and you just turn the inputs A, B, and C "on" or "off." These three binary bits are added together to output a 2-bit binary number.
 
 ## External hardware
 
