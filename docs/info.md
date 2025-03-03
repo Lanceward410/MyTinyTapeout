@@ -12,6 +12,7 @@ You can also include images in this folder and reference them in the markdown. E
 This is a simple Full Adder circuit that takes 1-bit inputs A and B, with consideration to a Carry-in value (input C).
 
 ## How to test
+Acquire a table for binary addition up to '11'. Ensure that the outputs O1 and O2 correspond with this table.
 
 Explain how to use your project:
 -
