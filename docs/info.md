@@ -9,15 +9,14 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works:
-There are two inputs, A and B, that are wired through an AND gate, and the output (OUT) goes to a red LED light and then to ground.
+This is a simple Full Adder circuit that takes 1-bit inputs A and B, with consideration to a Carry-in value (input C).
 
 ## How to test
 
 Explain how to use your project:
+VCC sends a square wave to CLK, and you just turn the inputs A, B, and C "on" or "off." These three binary bits are added together to output a 2-bit binary number.
 -
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any:
-Input switches, a battery, and an LED
+There are two outputs, which will go to two LEDs. Each LED represents a bit, so the number '3' would show two LEDs lit, which corresponds to the binary value '11'. There are also two switches for input, a step button, and a reset button. A square wave generator is used as well, although you don't need one.
